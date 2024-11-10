@@ -29,4 +29,5 @@ def get_coordinates():
        elif i == 8: print(f"8: {coord312_x}, {coord208_z}")
        elif i == 9: print(f"9: {coord312_x}, {coord312_z}")
 
+
 get_coordinates()
